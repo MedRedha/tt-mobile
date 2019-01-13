@@ -1,0 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+tt-league {
+  --tt-color: red;
+}
